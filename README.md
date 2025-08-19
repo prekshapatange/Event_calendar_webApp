@@ -29,11 +29,4 @@ cd Event_calendar_webApp
 npm install
 npm start
 
-event-calendar/
-│-- public/          # Static files
-│-- src/
-│   ├── App.js       # Main React component
-│   ├── index.js     # Entry point
-│   ├── App.css      # Styling
-│   └── components/  # Custom components
-│-- package.json     # Dependencies & scripts
+
